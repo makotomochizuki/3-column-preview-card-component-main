@@ -8,12 +8,20 @@ html body {
   width: 1440px;
 }
 
-h1 {
-  font-family: 'Big Shoulders Display', cursive;
-
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
 }
 .main {
-  width: 70%;
-  display: flex;
-
+  width: 70%;  
+  border-radius: 10px;
+  border-style: none ;
 }
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+}
+
+
