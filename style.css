@@ -2,9 +2,18 @@
   box-sizing: border-box;
 }
 
-hmtl body {
-  font-family: "Big Shoulders Display", cursive;
+html body {
   font-family: "Lexend Deca", sans-serif;
   height: 100%;
   width: 1440px;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+
+}
+.main {
+  width: 70%;
+  display: flex;
+
 }
